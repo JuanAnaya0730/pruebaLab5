@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>3.png</file>
+        <file>grande.png</file>
+        <file>google_pacmanMap.png</file>
+    </qresource>
+</RCC>
